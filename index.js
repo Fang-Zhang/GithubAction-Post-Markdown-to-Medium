@@ -4,7 +4,6 @@ const md = require('meta-marked');
 
 const {
   INPUT_ACCESS_TOKEN,
-
   INPUT_MARKDOWN_FILE,
   INPUT_BASE_URL,
   INPUT_POST_URL,
